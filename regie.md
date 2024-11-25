@@ -147,3 +147,8 @@ Master on ecouteur on enceintr on
 
 Tjrs prendre la lumiere être aveugler
 
+Faire des fondues avec ma musique
+Quand le naratteur parle je coupe le musique
+Scenebde choeur je baisse le musique quand les personne parle ms je laisse de la musique
+
+Regie je reste sérieur
