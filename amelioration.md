@@ -1,0 +1,5 @@
+- Faire des monologue au public(se mettre devant sur la scéne face public).
+- Telephone toujours face public ne pas regarder son partenanre.
+- elispe taper des mains et se mettre face public
+- rapidement ce donner un enjeu et se charger de cette enjeu.
+- vivre l'événement.
