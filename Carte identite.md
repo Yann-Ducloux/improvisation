@@ -5,6 +5,13 @@ Marital
 Enfant
 Age
 Passion
+statut social
+histoire passé/ personnel
+compétence talent
+objectif motivation
+qualité défaut
+personaliré caractére
+gout dégout
 Metier
 Parfait !  Dans le contexte du théâtre, la "carte d'identité du personnage" correspond à ce qu'on appelle plus communément la fiche de personnage. C'est un outil indispensable pour l'acteur, le metteur en scène et le dramaturge.
 Une fiche de personnage théâtral peut contenir les éléments suivants :

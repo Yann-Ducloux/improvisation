@@ -9,3 +9,5 @@ Garder qon archetype penser comme lui
 
 
 Faire echo repeter plusieurs fois le dernier truc dit
+
+nourrir son et son partenaire avec les achetypes

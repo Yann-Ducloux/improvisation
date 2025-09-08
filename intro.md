@@ -20,3 +20,5 @@ faire evolué
 A mime B fait le narrateur en expliquant le présent du personnage
 
 narrateur explique le present le lieu ce qu'il fait en déytail et raison
+
+A fait qui est sur scéne fait des trucs B fait un truc ou parle sans que se soit en contre adiction de A
